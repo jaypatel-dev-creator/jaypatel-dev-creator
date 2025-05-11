@@ -1,16 +1,15 @@
-## Hi there 👋
 
-<!--
-**jaypatel-dev-creator/jaypatel-dev-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hi, I’m Jay Patel — a self-taught developer and first-year undergrad passionate about full-stack development using the MERN stack.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently building full-stack apps with JavaScript, React.js, Node.js & MongoDB  
+- 🌱 Exploring AI, cybersecurity basics, and advanced Java  
+- 🛠️ Working on real-world projects: blogs, note-taking apps, and e-commerce sites  
+  
+- 🤝 Active NSS Volunteer | Participated in Google Gen AI event  
+- ⚡ Fun Fact: I love turning curiosity into code
+
+Let's connect & collaborate!
+
+[LinkedIn]: https://www.linkedin.com/in/jay-patel-b800a7360/
+
