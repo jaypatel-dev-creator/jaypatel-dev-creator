@@ -1,6 +1,6 @@
 
 
-Hi, I’m Jay Patel — a self-taught developer and first-year undergrad passionate about full-stack development using the MERN stack.
+Hi, I’m Jay — a self-taught developer and first-year undergrad passionate about full-stack development using the MERN stack.
 
 - 🔭 Currently building full-stack apps with JavaScript, React.js, Node.js & MongoDB  
 - 🌱 Exploring AI, cybersecurity basics, and advanced Java  
