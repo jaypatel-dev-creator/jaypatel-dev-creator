@@ -1,15 +1,17 @@
 
 
-Hi, I’m Jay — a self-taught developer and first-year undergrad passionate about full-stack development using the MERN stack.
+Hi, I’m Jay
 
-- 🔭 Currently building full-stack apps with JavaScript, React.js, Node.js & MongoDB  
-- 🌱 Exploring AI, cybersecurity basics, and advanced Java  
-- 🛠️ Working on real-world projects: blogs, note-taking apps, and e-commerce sites  
-  
-- 🤝 Active NSS Volunteer | Participated in Google Gen AI event  
-- ⚡ Fun Fact: I love turning curiosity into code
+I’m a self-taught developer and a second-year undergraduate focused on building scalable full-stack applications and strengthening my foundations in software engineering and machine learning.
 
-Let's connect & collaborate!
+Currently working with Spring Boot, React, Java, and JavaScript
 
-[LinkedIn]: https://www.linkedin.com/in/jay-patel-b800a7360/
+Exploring Machine Learning fundamentals and practical model implementation
 
+Building real-world projects such as blogs, note-taking applications, and full-stack systems
+
+Strong focus on clean architecture, backend logic, and efficient problem-solving
+
+Interested in breaking down complex problems into maintainable, working solutions
+
+🔗 LinkedIn: https://www.linkedin.com/in/jay-patel-b800a7360/
